@@ -1,0 +1,68 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mimiakane.com" resolutions="1x" timestamp="1575118558309">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="3770433209" ref="index:dj-mimi-bot:home"/>
+    <file name="index.css" crc="305204340" ref="index"/>
+    <file name="dj-mimi-bot.css" crc="4129391021" ref="dj-mimi-bot"/>
+    <file name="home.css" crc="4214256999" ref="home"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:dj-mimi-bot:home"/>
+    <file name="museutils.js" crc="340535759" ref="index:dj-mimi-bot:home"/>
+    <file name="whatinput.js" crc="86476730" ref="index:dj-mimi-bot:home"/>
+    <file name="museconfig.js" crc="310584261" ref="index:dj-mimi-bot:home"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:dj-mimi-bot:home"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:dj-mimi-bot:home"/>
+    <file name="require.js" crc="7928878" ref="index:dj-mimi-bot:home"/>
+  </folder>
+  <folder name="images">
+    <file name="mimi logo.png" crc="3944715734" seo="true" ref="index:dj-mimi-bot:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="dj-mimi-bot" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="u168-4.png" crc="152835961" ref="index:dj-mimi-bot:home"/>
+    <file name="u280-4.png" crc="175231388" ref="index:dj-mimi-bot:home"/>
+    <file name="u283-4.png" crc="312910184" ref="index:dj-mimi-bot:home"/>
+    <file name="u289-4.png" crc="3909734891" ref="index:dj-mimi-bot:home"/>
+    <file name="u286-4.png" crc="87106817" ref="index:dj-mimi-bot:home"/>
+    <file name="u339-4.png" crc="3895549318" ref="index:dj-mimi-bot:home"/>
+    <file name="bg_600010.png" crc="3948691973" ref="index:dj-mimi-bot:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="dj-mimi-bot" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="dj mimi icon.png" crc="4192180872" seo="true" ref="dj-mimi-bot">
+      <caption webpage="dj-mimi-bot" alt=""/>
+    </file>
+    <file name="u539-4.png" crc="3842914074" ref="dj-mimi-bot"/>
+    <file name="invite icon.png" crc="181988915" seo="true" ref="dj-mimi-bot">
+      <caption webpage="dj-mimi-bot" alt=""/>
+    </file>
+    <file name="music icon.png" crc="4109523012" seo="true" ref="dj-mimi-bot">
+      <caption webpage="dj-mimi-bot" alt=""/>
+    </file>
+    <file name="u626-4.png" crc="195672687" ref="dj-mimi-bot"/>
+    <file name="u680-6.png" crc="371367153" ref="dj-mimi-bot"/>
+    <file name="u693-6.png" crc="3967340539" ref="dj-mimi-bot"/>
+    <file name="u747-6.png" crc="4283336998" ref="dj-mimi-bot"/>
+    <file name="u791-6.png" crc="3953363137" ref="dj-mimi-bot"/>
+    <file name="feature icon.png" crc="3943559561" seo="true" ref="dj-mimi-bot">
+      <caption webpage="dj-mimi-bot" alt=""/>
+    </file>
+    <file name="server icon.png" crc="108165333" seo="true" ref="dj-mimi-bot">
+      <caption webpage="dj-mimi-bot" alt=""/>
+    </file>
+    <file name="lightning icon.png" crc="4075049621" seo="true" ref="dj-mimi-bot">
+      <caption webpage="dj-mimi-bot" alt=""/>
+    </file>
+    <file name="easy to use.png" crc="4233195665" seo="true" ref="dj-mimi-bot">
+      <caption webpage="dj-mimi-bot" alt=""/>
+    </file>
+    <file name="u869-5.png" crc="4080162739" ref="dj-mimi-bot"/>
+    <file name="u872-14.png" crc="3807566224" ref="dj-mimi-bot"/>
+  </folder>
+  <file name="index.html" crc="4117554791" seo="true" mt="1575115478179" redirect="true"/>
+  <file name="dj-mimi-bot.html" crc="3814799336" seo="true" mt="1575118524644" redirect="true"/>
+  <file name="home.html" crc="475026235" seo="true" mt="1575115407661" redirect="true"/>
+</manifest>
